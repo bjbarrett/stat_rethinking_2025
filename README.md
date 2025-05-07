@@ -1,11 +1,11 @@
-Statistical Rethinking (2024 Edition)
+Statistical Rethinking (2025 Edition)
 ===============
 
-Instructor: Richard McElreath
+Instructor: Brendan Barrett (bbarrett@ab.mpg.de)
 
-Lectures: Uploaded and pre-recorded, two per week
+Lectures: Uploaded and pre-recorded, 1-2 per week
 
-Discussion: Online (Zoom), Fridays 3pm-4pm Central European (Berlin) Time
+Discussion and Lab: In person (Bücklestrasse 5) and Online (Zoom) once weekly, Date TBD CET
 
 # Purpose
 
@@ -13,15 +13,15 @@ This course teaches data analysis, but it focuses on scientific models. The unfo
 
 # Format
 
-Online, flipped instruction. I will pre-record the lectures each week. We'll meet online once a week for an hour to discuss the material. The discussion time (3-4pm Berlin Time) should allow people in the Americas to join in their morning.
+Online, flipped instruction. You will watch the authors online pre-recorded lectures. We'll meet in person and online once a week for an 1.5 hours to discuss the material and work on exercises together. 
 
-We'll use the 2nd edition of my book, <[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)>, and possibly some draft chapters for the 3rd edition. I'll provide a PDF of the book to enrolled students.
+We'll use the 2nd edition of, <[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)>.. If you require a PDF of the book and are enrolled in the course reach out to me.
 
-Registration: Registration hit the cap of 200 already and the wait list is also full. So registration is closed for this year. If people drop or stop attending discussions, I will invite from the wait list. - <[Wait List](https://forms.gle/3HwkC9zpmaPdTmU79)>
+Registration: 30 people limit.
 
 # Calendar & Topical Outline
 
-There are 10 weeks of instruction. Links to lecture recordings will appear in this table. Weekly problem sets are assigned on Fridays and due the next Friday, when we discuss the solutions in the weekly online meeting.
+There are 15 weeks of instruction. Links to lecture recordings will appear in this table. Weekly problem sets are assigned on Fridays and due the next Friday, when we discuss the solutions in the weekly online meeting.
 
 Full lecture playlist: <[Statistical Rethinking 2023 Playlist](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)>
 
@@ -43,7 +43,7 @@ Note about slides: In some browsers, the slides don't show correctly. If points 
 
 # Coding
 
-This course involves a lot of scripting. Students can engage with the material using either the original R code examples or one of several conversions to other computing environments. The conversions are not always exact, but they are rather complete. Each option is listed below.
+This course involves a lot of scripting. Students can engage with the material using either the original R code examples or one of several conversions to other computing environments. The conversions are not always exact, but they are rather complete. Each option is listed below. I will teach in R. If you wish to try some of the other online language conversions below, feel free to but I will not be of much use to help you with some coding issues. 
 
 ## Original R Flavor
 
