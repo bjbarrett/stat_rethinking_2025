@@ -5,7 +5,7 @@ Instructor: Brendan Barrett (bbarrett@ab.mpg.de)
 
 Lectures: Uploaded and pre-recorded, 1-2 per week
 
-Discussion and Lab: In person (Bücklestrasse 5) and Online (Zoom) once weekly on Mondays at 13:30
+Discussion and Lab: In person (Bücklestrasse 5, 5th floor common area) and Online ([Zoom](https://uni-konstanz-de.zoom.us/j/91825266106?pwd=C9z0uAclXpRmnuXy8yfQ0nlUwBq1FP.1) once weekly on Mondays at 13:30
 
 # Purpose
 
