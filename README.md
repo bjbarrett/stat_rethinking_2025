@@ -29,7 +29,7 @@ Note about slides: In some browsers, the slides don't show correctly. If points 
 
 | Week ## | Meeting date | Reading | Lectures |
 | ------- | -------------- | ------------- | ---------------------- |
-| Week 00 | 26 May  | Chapter 1 | [0] <[Science Before Statistics](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=1)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-01)> 
+| Week 00 | 26 May  | Chapter 1 | [1] <[Science Before Statistics](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=1)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-01)> 
 | Week 01 | 02 June  | Chapters 2,3 |  [2] <[Garden of Forking Data](https://www.youtube.com/watch?v=R1vcdhPBlXA&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=2)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-02)> 
 | Week 02 | 09 June | Chapter 4 | [3] <[Geocentric Models](https://www.youtube.com/watch?v=tNOu-SEacNU&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=3)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-03)> <br> [4] <[Categories and Curves](https://www.youtube.com/watch?v=F0N4b7K_iYQ&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=4)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-04)>
 | Week 03 | 16 June | Chapter 5 |  [5] <[Elemental Confounds](https://www.youtube.com/watch?v=mBEA7PKDmiY&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=5)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-05)>
