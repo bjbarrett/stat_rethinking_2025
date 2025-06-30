@@ -7,3 +7,10 @@ We will post the solutions the following Monday morning and go over them in clas
 3. `week01.pdf`
 
 ## Week 2
+1. Complete 4E1-4E5
+3. `week02.pdf`
+
+## Week 3
+1. Complete 5E1-5E5, 5M4, 5H1 & 5H2 on pg. 159-160
+
+
