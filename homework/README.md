@@ -13,4 +13,6 @@ We will post the solutions the following Monday morning and go over them in clas
 ## Week 3
 1. Complete 5E1-5E5, 5M4, 5H1 & 5H2 on pg. 159-160
 
-
+## Week 4
+1. `week04 PDF`
+2. 6E1-6E4, pg 189
