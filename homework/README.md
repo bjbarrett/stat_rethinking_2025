@@ -16,3 +16,9 @@ We will post the solutions the following Monday morning and go over them in clas
 ## Week 4
 1. `week04 PDF`
 2. 6E1-6E4, pg 189
+
+## Week 5
+1. `week05.PDF`
+
+## Week 6
+1. Book page 297, problems 9M1,9M2,9H2
