@@ -22,3 +22,11 @@ We will post the solutions the following Monday morning and go over them in clas
 
 ## Week 6
 1. Book page 297, problems 9M1,9M2,9H2
+
+## Week 7
+No Homework
+
+## Week 8
+1. `week08.PDF'
+2. pg. 366 1H6
+
