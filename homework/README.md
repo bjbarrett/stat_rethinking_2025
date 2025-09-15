@@ -28,5 +28,8 @@ No Homework
 
 ## Week 8
 1. `week08.PDF'
-2. pg. 366 1H6
+2. pg. 366 11H6
+
+## Week 9.
+1. pg 397-398, problems 12M3, 12H1, 12H2,12H6 
 
