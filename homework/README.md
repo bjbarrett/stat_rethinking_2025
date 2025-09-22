@@ -31,5 +31,7 @@ No Homework
 2. pg. 366 11H6
 
 ## Week 9.
-1. pg 397-398, problems 12M3, 12H1, 12H2,12H6 
+1. pg 397-398, problems 12M3, 12H1, 12H2, 12H6 
 
+## Week 10
+1. `week10.PDF`
