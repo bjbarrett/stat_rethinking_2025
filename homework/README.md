@@ -35,3 +35,10 @@ No Homework
 
 ## Week 10
 1. `week10.PDF`
+
+## Week 11
+No homework
+
+## Week 12
+1. `week12.PDF`
+2, Get DAG from corresponding online lecture.
