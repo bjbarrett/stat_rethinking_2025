@@ -43,10 +43,10 @@ Note about slides: In some browsers, the slides don't show correctly. If points 
 | Week 11 | 29 Sept | Chapter 13 | [14] <[Correlated Features](https://www.youtube.com/watch?v=Es44-Bp1aKo&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=14)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_14-GLMM3.pdf)>
 | Week 12 | 06 Oct | Chapter 14 | [15] <[Social Networks](https://www.youtube.com/watch?v=hnYhJzYAQ60&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=15)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_15-social_networks.pdf)>
 | Week 13 | 13 Oct | Chapter 14 | [16] <[Gaussian Processes](https://www.youtube.com/watch?v=Y2ZLt4iOrXU&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=16)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_16-gaussian_processes.pdf)>
-| Week 14 | 20 Oct | Chapter 15 | [17] <[Measurement](https://www.youtube.com/watch?v=mt9WKbQJrI4&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=17)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_17-measurement.pdf)> <br> [18] <[Missing Data](https://www.youtube.com/watch?v=Oeq6GChHOzc&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=18)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_18-missing_data.pdf)>
-| Week 15 | 27 Oct | Chapter 16 | [19] <[Generalized Linear Madness](https://www.youtube.com/watch?v=zffwg0xDOgE&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=19)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_19-GenLinearMadness.pdf)> <br> [20] <[Horoscopes](https://www.youtube.com/watch?v=qwF-st2NGTU&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=20&pp=sAQB)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_20-horoscopes.pdf)>
-| Week 16 | 03 Nov | Chapter 17 and Presentations| [20] <[Horoscopes](https://www.youtube.com/watch?v=qwF-st2NGTU&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=20&pp=sAQB)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_20-horoscopes.pdf)>
-| Week 16 | 03 Nov | Chapter 17 and Presentations| [20] <[Horoscopes](https://www.youtube.com/watch?v=qwF-st2NGTU&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=20&pp=sAQB)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_20-horoscopes.pdf)>
+| Week 14 | 27 Oct | Chapter 15 | [17] <[Measurement](https://www.youtube.com/watch?v=mt9WKbQJrI4&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=17)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_17-measurement.pdf)> <br> [18] <[Missing Data](https://www.youtube.com/watch?v=Oeq6GChHOzc&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=18)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_18-missing_data.pdf)>
+| Week 15 | Week of 03 Nov TBD| Chapter 16 | [19] <[Generalized Linear Madness](https://www.youtube.com/watch?v=zffwg0xDOgE&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=19)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_19-GenLinearMadness.pdf)> <br> [20] <[Horoscopes](https://www.youtube.com/watch?v=qwF-st2NGTU&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=20&pp=sAQB)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_20-horoscopes.pdf)>
+# | Week 16 | 03 Nov | Chapter 17 and Presentations| [20] <[Horoscopes](https://www.youtube.com/watch?v=qwF-st2NGTU&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=20&pp=sAQB)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_20-horoscopes.pdf)>
+# | Week 16 | 03 Nov | Chapter 17 and Presentations| [20] <[Horoscopes](https://www.youtube.com/watch?v=qwF-st2NGTU&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=20&pp=sAQB)> <[Slides](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_20-horoscopes.pdf)>
 
 # Coding
 
@@ -82,7 +82,7 @@ If you are a student taking the course for credit you will have to have one eval
 2. Simulate Data based on your DAG or SCM, and recover parameters of interest to show you can answer the question you propse with a realistic sampling regime/design
 3. AND/OR Run an analyses using the skills you learned in class for data you have collected.
 
-The goal is to generalte a product that will be useful for you or make your science better.
+The goal is to generate a product that will be useful for you or make your science better.
 
 
 

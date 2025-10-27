@@ -42,3 +42,9 @@ No homework
 ## Week 12
 1. `week12.PDF`
 2, Get DAG from homework for <[lecture notes](https://github.com/rmcelreath/stat_rethinking_2023/raw/main/slides/Lecture_14-GLMM3.pdf)>.
+
+## Week 13
+No Homework
+
+## Week 14
+15H1 and 15H2
