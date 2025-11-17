@@ -48,3 +48,6 @@ No Homework
 
 ## Week 14
 15H1 and 15H2
+
+## Week 15
+None
